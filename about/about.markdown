@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-Jodeci Wheaden is a Software Engineer at MITRE and a current Northeastern graduate student. She received her undergraduate degree from Georgia College $\&$ State University in December 2014. The decision to obtain a Bachelor’s of Science degree in Mathematics was made because of its universal nature and its reoccurrence in many other fields of study. 
+Jodeci Wheaden is a Software Engineer at MITRE and a current Northeastern graduate student. She received her undergraduate degree from Georgia College & State University in December 2014. The decision to obtain a Bachelor’s of Science degree in Mathematics was made because of its universal nature and its reoccurrence in many other fields of study. 
 
 After the completion of her undergraduate degree, she decided to become a teacher in an effort to be a positive influence and to alleviate the gap in mathematics. During her teaching career, she was feeding her passion for technology until the opportunity arose for her to study computer science full time. March 1, 2019 her life took a monumental turn when she learned that she had been awarded the Full GEM Fellowship. A fellowship known for helping underrepresented ethnic groups pursue their graduate degrees in STEM majors. 
 
